@@ -18,6 +18,7 @@ IE 7374 - Machine Learning Operations (MLOps) | Lab 4
 ```
 ├── src/
 │   ├── main.py
+|   |── model/
 │   └── requirements.txt
 ├── Dockerfile
 └── README.md
